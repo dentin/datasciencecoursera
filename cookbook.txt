@@ -1,0 +1,27 @@
+"Activity"
+Types of activity:  "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS", "WALKING_UPSTAIRS" 
+
+"Subject"
+Subject of the experiment from 1 to 30
+
+Average of time measurements for each activity / subject
+"timeBodyAccMag.mean"
+"timeBodyAccMag.std"
+"timeGravityAccMag.mean"
+"timeGravityAccMag.std"
+"timeBodyAccJerkMag.mean"
+"timeBodyAccJerkMag.std"
+"timeBodyGyroMag.mean"
+"timeBodyGyroMag.std"
+"timeBodyGyroJerkMag.mean"
+"timeBodyGyroJerkMag.std"
+
+Average of frequency measurements for each activity / subject
+"frequencyBodyAccMag.mean"
+"frequencyBodyAccMag.std"
+"frequencyBodyBodyAccJerkMag.mean"
+"frequencyBodyBodyAccJerkMag.std"
+"frequencyBodyBodyGyroMag.mean"
+"frequencyBodyBodyGyroMag.std"
+"frequencyBodyBodyGyroJerkMag.mean"
+"frequencyBodyBodyGyroJerkMag.std"
