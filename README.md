@@ -1,11 +1,11 @@
-# ${1:Coursera - Getting and Cleaning Data - Course Project}
+# Coursera - Getting and Cleaning Data - Course Project
  
 This is the run_analysis.R script that solves the Getting and Cleaning Data Course Project.
  
 ## Installation
  
 Download the run_analysis.R script
-(Optional) Download and unzip the data set (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+(Optional) Download and unzip the [data set ](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
  
 ## Usage
@@ -18,5 +18,5 @@ The output will be written to your working directory as tidy.txt
  
 ## Cookbook
  
-Original file cookbooks (features_info.txt) (features.txt)
-Additional file cookbook for tidy.txt (cookbook.txt)
+Original file [cookbook](features.txt)
+Additional file [cookbook for tidy.txt](cookbook.txt)
